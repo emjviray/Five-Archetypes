@@ -95,7 +95,9 @@ Game planning & matchup optimization
 Emmanuel Viray
 
 Data Analyst for UCSD Tritons Baseball NCAA Division I
+
 Baseball Research Analyst — TritonBall Analytics
+
 UC San Diego | Machine Learning & Data Science
 
 🔗 Future Work
