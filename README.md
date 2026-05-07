@@ -68,16 +68,7 @@ MLB roster construction
 Pitcher deployment strategy
 Free agent evaluation and fit analysis
 Game planning and matchup optimization
-Repository Structure
-├── ALPA.csv
-├── Archetype to MLB Fit.csv
-├── MLBSC.csv
-├── MLBSD.csv
-├── MLBSHRA.csv
-├── PA5.csv
-├── PACO1.csv
-├── README.md
-├── The Five Pitching Archetypes - A Study on Their Performance...
+
 Author
 
 Emmanuel Viray
